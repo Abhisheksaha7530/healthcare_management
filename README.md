@@ -61,8 +61,5 @@ Ensure you have the following installed:
 ## Contributing
 Feel free to submit issues or pull requests for improvements.
 
-## License
-This project is licensed under the MIT License.
-
 ---
 **GitHub Repository**: [Healthcare Management System](https://github.com/Abhisheksaha7530/healthcare_management)
